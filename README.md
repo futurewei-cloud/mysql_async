@@ -1,3 +1,5 @@
+"This Project has been archived by the owner, who is no longer providing support.  The project remains available to authorized users on a "read only" basis."
+
 [![Gitter](https://badges.gitter.im/rust-mysql/community.svg)](https://gitter.im/rust-mysql/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Build Status](https://dev.azure.com/aikorsky/mysql%20Rust/_apis/build/status/blackbeam.mysql_async?branchName=master)](https://dev.azure.com/aikorsky/mysql%20Rust/_build/latest?definitionId=2&branchName=master)
